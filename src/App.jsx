@@ -1,6 +1,6 @@
 import { useState } from 'react';
-import Buttons from './components/buttons';
-
+//file name causeing problems on deployment
+import Buttons from './components/Buttons';
 // created a list to avoid repeating myself
 const buttonData = [
 	{
