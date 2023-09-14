@@ -1,5 +1,4 @@
 import { useState } from 'react';
-// import './App.css';
 import Buttons from './components/buttons';
 
 // created a list to avoid repeating myself
